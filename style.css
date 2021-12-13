@@ -70,3 +70,8 @@ iframe {
     text-align: justify;
     text-align-last: left;
 }
+
+.image {
+    width: 10%;
+    padding-bottom: 30px;
+}
